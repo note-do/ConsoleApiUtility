@@ -7,6 +7,7 @@ using WebApiUtility.Domain.Models.ValueObjects;
 
 namespace WebApiConsoleClient.LaguageSupport
 {
+#warning GodClass. Лучше разделить UI, обработку ошибок и модель
     public class CommandService : ICommandService
     {
         private readonly ISearch search;

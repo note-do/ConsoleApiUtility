@@ -26,7 +26,9 @@ namespace WebApiUtility.Application.Services
                 if (accessToken == null)
                 {
                     logger.Debug("Получаем ключ аутентификации");
+#warning В код зашит уже зашифрованный clienID + secret.
                     client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Basic", "Y2xpZW50MTpMNlFCdFpDclV5TndaZmpMbXpGVjhiWnpMR1MwME81Qw==");
+#warning Авторизация зашита в код.
                     var payload = @"grant_type=password&username=Шестаков&password=Q1w2e3r4t5";
                     var content = new StringContent(payload, Encoding.UTF8, "application/x-www-form-urlencoded");
                     var response = client.PostAsync(@"api/token", content).GetAwaiter().GetResult();

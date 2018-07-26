@@ -18,3 +18,23 @@ C:\Users\shestakov\source\repos\WebApiUtility\WebApiUtility.Application\obj\Debu
 C:\Users\shestakov\source\repos\WebApiUtility\WebApiUtility.Application\obj\Debug\WebApiUtility.Application.csproj.CopyComplete
 C:\Users\shestakov\source\repos\WebApiUtility\WebApiUtility.Application\obj\Debug\WebApiUtility.Application.dll
 C:\Users\shestakov\source\repos\WebApiUtility\WebApiUtility.Application\obj\Debug\WebApiUtility.Application.pdb
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application\bin\Debug\WebApiUtility.Application.dll.config
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application\bin\Debug\WebApiUtility.Application.dll
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application\bin\Debug\WebApiUtility.Application.pdb
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application\bin\Debug\Autofac.dll
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application\bin\Debug\Autofac.Extras.NLog.dll
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application\bin\Debug\Newtonsoft.Json.dll
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application\bin\Debug\NLog.dll
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application\bin\Debug\System.Net.Http.Formatting.dll
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application\bin\Debug\WebApiUtility.Domain.dll
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application\bin\Debug\WebApiUtility.Domain.pdb
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application\bin\Debug\WebApiUtility.Domain.dll.config
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application\bin\Debug\Autofac.xml
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application\bin\Debug\Newtonsoft.Json.xml
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application\bin\Debug\NLog.xml
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application\bin\Debug\System.Net.Http.Formatting.xml
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application\obj\Debug\WebApiUtility.Application.csprojAssemblyReference.cache
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application\obj\Debug\WebApiUtility.Application.csproj.CoreCompileInputs.cache
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application\obj\Debug\WebApiUtility.Application.csproj.CopyComplete
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application\obj\Debug\WebApiUtility.Application.dll
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application\obj\Debug\WebApiUtility.Application.pdb

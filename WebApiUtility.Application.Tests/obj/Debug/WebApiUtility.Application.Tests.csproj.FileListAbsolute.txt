@@ -33,3 +33,38 @@ C:\Users\shestakov\source\repos\WebApiUtility\WebApiUtility.Application.Tests\ob
 C:\Users\shestakov\source\repos\WebApiUtility\WebApiUtility.Application.Tests\bin\Debug\WebApiUtility.Application.dll
 C:\Users\shestakov\source\repos\WebApiUtility\WebApiUtility.Application.Tests\bin\Debug\WebApiUtility.Application.pdb
 C:\Users\shestakov\source\repos\WebApiUtility\WebApiUtility.Application.Tests\bin\Debug\WebApiUtility.Application.dll.config
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application.Tests\bin\Debug\xunit.abstractions.dll
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application.Tests\bin\Debug\xunit.runner.reporters.net452.dll
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application.Tests\bin\Debug\xunit.runner.utility.net452.dll
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application.Tests\bin\Debug\WebApiUtility.Application.Tests.dll.config
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application.Tests\bin\Debug\WebApiUtility.Application.Tests.dll
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application.Tests\bin\Debug\WebApiUtility.Application.Tests.pdb
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application.Tests\bin\Debug\Autofac.dll
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application.Tests\bin\Debug\Autofac.Extras.NLog.dll
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application.Tests\bin\Debug\Castle.Core.dll
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application.Tests\bin\Debug\NLog.dll
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application.Tests\bin\Debug\NSubstitute.dll
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application.Tests\bin\Debug\WebApiUtility.Application.dll
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application.Tests\bin\Debug\WebApiUtility.Domain.dll
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application.Tests\bin\Debug\xunit.assert.dll
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application.Tests\bin\Debug\xunit.core.dll
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application.Tests\bin\Debug\xunit.execution.desktop.dll
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application.Tests\bin\Debug\WebApiUtility.Application.pdb
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application.Tests\bin\Debug\WebApiUtility.Application.dll.config
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application.Tests\bin\Debug\WebApiUtility.Domain.pdb
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application.Tests\bin\Debug\WebApiUtility.Domain.dll.config
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application.Tests\bin\Debug\Autofac.xml
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application.Tests\bin\Debug\NLog.xml
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application.Tests\bin\Debug\xunit.assert.xml
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application.Tests\bin\Debug\xunit.core.xml
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application.Tests\bin\Debug\xunit.execution.desktop.xml
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application.Tests\obj\Debug\WebApiUtility.Application.Tests.csprojAssemblyReference.cache
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application.Tests\obj\Debug\WebApiUtility.Application.Tests.csproj.CoreCompileInputs.cache
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application.Tests\obj\Debug\WebApiUtility.Application.Tests.csproj.CopyComplete
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application.Tests\obj\Debug\WebApiUtility.Application.Tests.dll
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Application.Tests\obj\Debug\WebApiUtility.Application.Tests.pdb

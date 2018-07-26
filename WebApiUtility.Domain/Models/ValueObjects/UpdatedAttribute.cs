@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace WebApiUtility.Domain.Models.ValueObjects
 {
+#warning класс не используется
     public class UpdatedAttribute
     {
         public string Id { get; set; }

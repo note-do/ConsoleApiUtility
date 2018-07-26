@@ -15,3 +15,20 @@ C:\Users\shestakov\source\repos\WebApiUtility\WebApiUtility.Domain\obj\Debug\Web
 C:\Users\shestakov\source\repos\WebApiUtility\WebApiUtility.Domain\obj\Debug\WebApiUtility.Domain.dll
 C:\Users\shestakov\source\repos\WebApiUtility\WebApiUtility.Domain\obj\Debug\WebApiUtility.Domain.pdb
 C:\Users\shestakov\source\repos\WebApiUtility\WebApiUtility.Domain\obj\Debug\WebApiUtility.Domain.csprojAssemblyReference.cache
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Domain\bin\Debug\WebApiUtility.Domain.dll.config
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Domain\bin\Debug\WebApiUtility.Domain.dll
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Domain\bin\Debug\WebApiUtility.Domain.pdb
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Domain\bin\Debug\Autofac.dll
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Domain\bin\Debug\Autofac.Extras.NLog.dll
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Domain\bin\Debug\Newtonsoft.Json.dll
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Domain\bin\Debug\NLog.dll
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Domain\bin\Debug\System.Net.Http.Formatting.dll
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Domain\bin\Debug\Autofac.xml
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Domain\bin\Debug\Newtonsoft.Json.xml
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Domain\bin\Debug\NLog.xml
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Domain\bin\Debug\System.Net.Http.Formatting.xml
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Domain\obj\Debug\WebApiUtility.Domain.csprojAssemblyReference.cache
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Domain\obj\Debug\WebApiUtility.Domain.csproj.CoreCompileInputs.cache
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Domain\obj\Debug\WebApiUtility.Domain.csproj.CopyComplete
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Domain\obj\Debug\WebApiUtility.Domain.dll
+D:\Public\C sharp\ConsoleApiUtility\WebApiUtility.Domain\obj\Debug\WebApiUtility.Domain.pdb

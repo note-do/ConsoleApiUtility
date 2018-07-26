@@ -13,6 +13,7 @@ namespace WebApiUtility.Application.Services
     /// </summary>
     public class UpdateApiService : IUpdate
     {
+#warning Плохая архитектура - Update зависит от Search.
         private readonly IWebApiService webApiService;
         private readonly ISearch search;
         private readonly ILogger logger;
@@ -89,7 +90,8 @@ namespace WebApiUtility.Application.Services
             return result;
 
         }
-
+#warning oldValue некорректный комментарий. Это id атрибута
+#warning Спагетти код SortAttribute
         /// <summary>
         /// Обслуживающий метод сортировки атрибутов
         /// </summary>
@@ -160,8 +162,9 @@ namespace WebApiUtility.Application.Services
         /// <returns>Обновленный атрибут</returns>
         private JObject SetAttributeObject(Attribute attribute, string upadtedValue)
         {
+#warning Недостаточный критерий для нахождения нужного объекта
             var searchValue = search.SearchObjectAsync(SearchConditionType.Name, SearchOperatorType.Equals,upadtedValue).Result.FirstOrDefault();
-
+#warning Если поиск не вернул результаты будет ошибка
             var value = new JObject();
             value.Add("Id", searchValue.ObjectId);
             value.Add("Name", searchValue.ObjectName);

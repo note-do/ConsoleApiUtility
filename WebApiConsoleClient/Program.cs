@@ -10,6 +10,7 @@ namespace WebApiConsoleClient
 {
     class Program
     {
+#warning Много опечаток в комментариях, именах переменных
         static void Main(string[] args)
         {
             var builder = new ContainerBuilder();
@@ -20,6 +21,7 @@ namespace WebApiConsoleClient
             builder.RegisterType<CommandService>().As<ICommandService>();
             builder.RegisterType<UpdateApiService>().As<IUpdate>();
             builder.RegisterType<SearchApiService>().As<ISearch>();
+#warning Лишняя точка доступа к конфигурации. Используйте IConfigurationService
             builder.RegisterType<AccessApiService>().As<IAccessApiService>().WithParameter("serverAddress", ConfigurationManager.AppSettings["Address"]);
             builder.RegisterType<ApiClientService>().As<IWebApiService>();
 

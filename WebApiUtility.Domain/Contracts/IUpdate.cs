@@ -6,6 +6,7 @@ namespace WebApiUtility.Domain.Contracts
 {
     public interface IUpdate
     {
+#warning existedAttributeId имеет некорректный комментарий.
         /// <summary>
         /// Основной метод обновления данных по классу объекта
         /// </summary>

@@ -4,6 +4,7 @@ using WebApiUtility.Domain.Contracts;
 
 namespace WebApiConsoleClient
 {
+#warning Спагетти-код. Лучше использовать MVC
     public class ApplicationStart: IApplication
     {
         private readonly ICommandService commandServive;

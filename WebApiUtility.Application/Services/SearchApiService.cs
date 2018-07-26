@@ -93,7 +93,7 @@ namespace WebApiUtility.Application.Services
             return results;
         }
 
-
+#warning Создание FindObject лучше реализовать в отдельном классе фабрики
 
         /// <summary>
         /// Закрытый метод создания объекта поиска по аттрибуту в определнной группе объектов
@@ -205,6 +205,8 @@ namespace WebApiUtility.Application.Services
             };
             return findObject;
         }
+
+#warning Создание Result лучше сделать в отдельном классе фабрики
 
         /// <summary>
         /// Метод приведения JSON объекта к модели Result

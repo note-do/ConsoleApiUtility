@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace WebApiUtility.Domain.Models.ValueObjects
 {
+#warning Несколько сущностей в файле. Имя файла не отражает его содержимое
+
     public enum SearchOperatorType
     {
         Equals = 1,
@@ -45,7 +47,9 @@ namespace WebApiUtility.Domain.Models.ValueObjects
 
     public static class Dictionaries
     {
-      public static  Dictionary<string, string> attributes = new Dictionary<string, string>
+#warning Эта часть меняется от проекта к проекту. Лучше сделать через полиморфную реализацию, которая в данном случае будет возвращать результаты без обращения к серверу
+
+        public static  Dictionary<string, string> attributes = new Dictionary<string, string>
         {
             {"лимит лицензий","F30DC169-B976-E711-80C7-00155D086902"},
             {"дата возврата","2C8CFFC2-5394-E611-80C1-00155D086902"},

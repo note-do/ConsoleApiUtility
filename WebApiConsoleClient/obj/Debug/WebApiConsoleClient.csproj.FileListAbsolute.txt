@@ -42,3 +42,25 @@ C:\Users\shestakov\source\repos\Utility\WebApiConsoleClient\obj\Debug\WebApiCons
 C:\Users\shestakov\source\repos\Utility\WebApiConsoleClient\obj\Debug\WebApiConsoleClient.csproj.CopyComplete
 C:\Users\shestakov\source\repos\Utility\WebApiConsoleClient\obj\Debug\WebApiConsoleClient.exe
 C:\Users\shestakov\source\repos\Utility\WebApiConsoleClient\obj\Debug\WebApiConsoleClient.pdb
+D:\Public\C sharp\ConsoleApiUtility\WebApiConsoleClient\bin\Debug\NLog.config
+D:\Public\C sharp\ConsoleApiUtility\WebApiConsoleClient\bin\Debug\WebApiConsoleClient.exe.config
+D:\Public\C sharp\ConsoleApiUtility\WebApiConsoleClient\bin\Debug\WebApiConsoleClient.exe
+D:\Public\C sharp\ConsoleApiUtility\WebApiConsoleClient\bin\Debug\WebApiConsoleClient.pdb
+D:\Public\C sharp\ConsoleApiUtility\WebApiConsoleClient\bin\Debug\Autofac.dll
+D:\Public\C sharp\ConsoleApiUtility\WebApiConsoleClient\bin\Debug\Autofac.Extras.NLog.dll
+D:\Public\C sharp\ConsoleApiUtility\WebApiConsoleClient\bin\Debug\NLog.dll
+D:\Public\C sharp\ConsoleApiUtility\WebApiConsoleClient\bin\Debug\WebApiUtility.Application.dll
+D:\Public\C sharp\ConsoleApiUtility\WebApiConsoleClient\bin\Debug\WebApiUtility.Domain.dll
+D:\Public\C sharp\ConsoleApiUtility\WebApiConsoleClient\bin\Debug\Newtonsoft.Json.dll
+D:\Public\C sharp\ConsoleApiUtility\WebApiConsoleClient\bin\Debug\WebApiUtility.Application.pdb
+D:\Public\C sharp\ConsoleApiUtility\WebApiConsoleClient\bin\Debug\WebApiUtility.Application.dll.config
+D:\Public\C sharp\ConsoleApiUtility\WebApiConsoleClient\bin\Debug\WebApiUtility.Domain.pdb
+D:\Public\C sharp\ConsoleApiUtility\WebApiConsoleClient\bin\Debug\WebApiUtility.Domain.dll.config
+D:\Public\C sharp\ConsoleApiUtility\WebApiConsoleClient\bin\Debug\Autofac.xml
+D:\Public\C sharp\ConsoleApiUtility\WebApiConsoleClient\bin\Debug\NLog.xml
+D:\Public\C sharp\ConsoleApiUtility\WebApiConsoleClient\bin\Debug\Newtonsoft.Json.xml
+D:\Public\C sharp\ConsoleApiUtility\WebApiConsoleClient\obj\Debug\WebApiConsoleClient.csprojAssemblyReference.cache
+D:\Public\C sharp\ConsoleApiUtility\WebApiConsoleClient\obj\Debug\WebApiConsoleClient.csproj.CoreCompileInputs.cache
+D:\Public\C sharp\ConsoleApiUtility\WebApiConsoleClient\obj\Debug\WebApiConsoleClient.csproj.CopyComplete
+D:\Public\C sharp\ConsoleApiUtility\WebApiConsoleClient\obj\Debug\WebApiConsoleClient.exe
+D:\Public\C sharp\ConsoleApiUtility\WebApiConsoleClient\obj\Debug\WebApiConsoleClient.pdb
